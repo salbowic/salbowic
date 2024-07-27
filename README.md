@@ -1,4 +1,6 @@
-## Hi there, I'm Sebastian 👋
+## Hi there 👋
+
+I'm Sebastian, Computer Science student at Warsaw University of Technology, specializing in AI theory.
 
 🔭 I’m currently working on methods to combine conventional text classification algorithms operating in active learning mode with large language models to automate systematic literature reviews.
 
