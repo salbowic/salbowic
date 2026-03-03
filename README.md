@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sebastian, Computer Science student at Warsaw University of Technology, specializing in AI theory.
+I'm Sebastian, Master of Science in Computer Science with a specialization in Artificial Intelligence from Warsaw University of Technology.
 
 🔭 I'm currently working on:
  - Langchain multiagent system to automate yt video generation and publication,
